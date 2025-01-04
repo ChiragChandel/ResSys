@@ -95,4 +95,3 @@ app.delete("/api/bookings/:id", async (req, res) => {
 app.listen(PORT, () => {
   console.log(`Backend server is running at http://localhost:${PORT}`);
 });
-//divij
