@@ -15,7 +15,8 @@ Tablique is your go-to table booking app that combines sleek design with powerfu
 - **Database**: PostgreSQL (because your data deserves reliability).  
 
 ### **Repo Link 🔗**  
-[Check out the code]([https://github.com/ChiragChandel/Restaurant-Booking](https://github.com/ChiragChandel/Tablique/tree/main)) and maybe even give it a ⭐ if you’re feeling generous!  
+[Check out the code](https://github.com/ChiragChandel/Tablique/tree/main) and maybe even give it a ⭐ if you’re feeling generous!  
+
 
 ---  
 
